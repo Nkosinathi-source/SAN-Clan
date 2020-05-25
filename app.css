@@ -1,0 +1,60 @@
+header, footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+
+aside {
+    padding-top: 10px;
+    font-weight: bold;
+}
+h2 {
+    color: rgb(5, 5, 207);
+}
+
+.social {
+    color: rgb(4, 158, 4);
+}
+
+nav {
+    background-color: rgb(5, 119, 5);
+    color: white;
+    padding: 20px;
+
+}
+
+section, article {
+    padding: 10px;
+    background-color: rgb(133, 133, 133);
+
+}
+
+p {
+    color: white
+
+}
+
+ul, ol {
+    color: white
+
+}
+.box {
+    color: rgb(5, 151, 5);
+    font-weight: bold;
+    font-style: italic;
+
+
+}
+
+button {
+    color: white;
+    background-color: rgb(7, 7, 224);
+}
+
+.the {
+    color: black;
+}
+
+
